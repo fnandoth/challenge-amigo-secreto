@@ -19,3 +19,7 @@ Puedes clonar este repositorio y ejecutarlo localmente con un servidor estático
    cd amigo-secreto 
 
 3. Abre el proyecto con Live Server o cualquier servidor estático de tu preferencia
+
+## Captura de pantalla 
+
+![Vista previa](./a.png)
